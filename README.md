@@ -10,8 +10,8 @@
 ---
 
 ### 🌟 Sobre mí:
-- 🔭 Actualmente trabajando en **proyectos Android con Kotlin y PHP Laravel**  
-- 💻 Experiencia en **proyectos en Java con Visual Studio**  
+- 🔭 Actualmente trabajando en **proyectos Android con Kotlin, PHP Laravel y Liferay**  
+- 💻 Experiencia en **proyectos en Java con Visual Studio y desarrollo de webs con Liferay**  
 - 🧩 Explorando el desarrollo de aplicaciones en **C# para entornos Windows**  
 - 📚 Aprendiendo sobre **Arquitectura de Software** y **Desarrollo Full-Stack**  
 - 🎯 Me encanta resolver problemas y aprender nuevas tecnologías  
